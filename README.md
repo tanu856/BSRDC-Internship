@@ -4,5 +4,5 @@
 
 - This training program was under BSRDC.
 
-![BSRDC INTERNSHIP CERTIFICATE](visualisation.gif)
+![BSRDC_iNTERNSHIP](BSRDCInternship.jpeg)
 
